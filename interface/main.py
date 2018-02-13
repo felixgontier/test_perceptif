@@ -46,7 +46,7 @@ class MainFrame11(gui.MainFrameBase111):
             self.data_2 = self.f_Pt2.readlines()
             self.data2 = self.data_2[a].split()
             self.rnd = [int(i) for i in self.data2]
-            print(self.rnd)
+            print self.rnd
             self.f_Pt2.close()
 
         self.i = 0  # Fichier 1
@@ -156,9 +156,9 @@ class MainFrame11(gui.MainFrameBase111):
                     self.m_textCtrl3.SetLabel(" ")
                     self.m_staticText126.SetLabel(str(self.i + 1))
             else:
-                print("Attendre la fin de la Video ! ")
+                print "Attendre la fin de la Video ! "
         else:
-            print("Remplir bien tout !")
+            print "Remplir bien tout !"
 
 
 # Implementing MyFrame2 - Fenetre Media
@@ -209,7 +209,7 @@ class MyFrame3(gui.MyFrame3):
                     self.affichage.Show()
                     self.Hide()
         except OSError:
-            print("Identifiant deja existant")
+            print "Identifiant deja existant"
 
     def Iden(self):
         return Identifiant
