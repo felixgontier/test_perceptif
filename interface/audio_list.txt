@@ -1,0 +1,13 @@
+ogn_1_EW_03.wav
+ogn_1_EW_16.wav
+ogn_1_EW_11.wav
+ogn_1_EW_13.wav
+rep_1_EW_02.wav
+rep_2_WE_03.wav
+rep_1_EW_05.wav
+rep_1_EW_06.wav
+rep_2_WE_11.wav
+rep_2_EW_13.wav
+rep_1_WE_16.wav
+rep_1_WE_17.wav
+rep_1_EW_19.wav
