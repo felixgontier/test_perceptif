@@ -134,7 +134,7 @@ class MainFrame11(gui.MainFrameBase111):
                                 eval("self.r_" + str(b) + "_1" + str(a) + ".SetValue(0)")
                                 break
                     self.f.write(str(b) + "\t")
-                self.f.write((self.m_textCtrl3.GetValue().encode('utf8')) + "\n")
+                self.f.write(self.m_textCtrl3.GetValue() + "\n")
                 self.f.close()
 
                 self.save = open(self.affichage.Iden() + '\Save.txt', 'a+')
