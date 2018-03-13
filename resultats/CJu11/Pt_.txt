@@ -1,0 +1,13 @@
+1	6	1	3	7	5	5	1	1	1	1	1	1	11	11	1	1	1	1	1	1	Hors mis les oiseaux je n'ai rien entendu de spécial
+2	1	8	8	5	11	11	1	3	3	2	7	10	1	1	6	4	1	1	1	1	 
+8	1	9	9	4	11	11	1	1	9	11	11	6	9	11	4	4	1	1	1	1	 
+3	7	1	1	7	3	4	1	1	5	5	2	3	1	1	1	1	6	7	3	5	 
+4	5	1	3	5	3	3	1	1	1	1	1	1	1	1	1	1	3	4	1	1	 
+11	3	2	9	5	8	11	3	10	3	10	10	7	4	4	4	4	5	4	3	3	 Je ne sais pas si j 'ai entendu un cheval
+13	1	9	9	4	7	8	1	1	4	8	1	1	11	5	11	11	9	7	1	1	 J ai entendu un hélicoptère
+12	5	1	4	3	11	11	1	1	11	11	1	1	1	1	5	5	1	1	6	6	 
+6	1	10	11	6	4	3	1	1	3	4	1	1	11	11	1	1	11	11	6	5	 On a l'impression d'être à proximité d'une cours de récréation 
+7	1	1	4	3	11	11	1	1	8	8	1	1	1	1	1	1	1	1	10	10	 Il y a un bruit de portail qu'on tire
+9	8	2	6	4	5	4	1	1	2	2	1	1	3	3	1	1	1	1	10	7	 On dirait une dame qui traverse une rue pour ensuite traverser un portail il y a même un chien
+5	1	3	8	4	11	11	1	1	8	8	1	1	5	4	11	8	1	1	7	4	 On l'impression d'entendre un cloche sonner
+10	1	1	11	1	11	11	1	1	11	11	1	1	1	1	11	11	1	1	1	1	 
